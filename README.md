@@ -1,4 +1,4 @@
-# DiplomaChain --- Certification et vérification de diplômes sur blockchain
+# Trusted! -- Certification et vérification de diplômes sur blockchain
 
 > Application de certification de diplômes universitaires basée sur
 > Ethereum. L'université émet un diplôme depuis une interface
@@ -47,7 +47,7 @@ universitaires, aux recruteurs et aux diplômés. La vérification manuelle
 de documents papier ou PDF peut être longue et ne garantit pas toujours
 que le document présenté est original.
 
-**DiplomaChain** propose une solution de certification fondée sur la
+**Trusted** propose une solution de certification fondée sur la
 blockchain. Lorsqu'un diplôme est émis, l'application calcule son
 empreinte numérique avec **SHA-256**. Cette empreinte est ensuite
 enregistrée dans un **Smart Contract Solidity** déployé sur le réseau de
@@ -930,7 +930,7 @@ Ce script de démonstration déploie un contrat sur le réseau local,
 émet un diplôme avec des données de test, attend la confirmation et
 lit les informations retournées par `verifierDiplome()`. Le déploiement
 et l'émission produisent des blocs qui apparaissent dans le Terminal 2.
-# DiplomaChain --- Certification et vérification de diplômes sur blockchain
+# Trusted --- Certification et vérification de diplômes sur blockchain
 
 > Application de certification de diplômes universitaires basée sur
 > Ethereum. L'université émet un diplôme depuis une interface
